@@ -1,4 +1,2 @@
-IMD400
-======
+# Initial page
 
-Course Project Gallery for IMD400

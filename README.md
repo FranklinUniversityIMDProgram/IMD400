@@ -1,4 +1,4 @@
-# Initial page
+# Franklin University IMD Program
 
 ## Can I become who I want to be?
 
